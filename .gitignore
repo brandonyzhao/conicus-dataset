@@ -1,0 +1,9 @@
+lp_dataset_patched*/
+metadata/
+logs/
+*.tar
+*.tar.zst
+*.npz
+*.npy
+__pycache__/
+.pytest_cache/

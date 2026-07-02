@@ -1,0 +1,4 @@
+numpy
+asdf
+healpy
+tqdm
