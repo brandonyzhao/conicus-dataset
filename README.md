@@ -6,6 +6,8 @@ The pipeline reads raw ASDF lightcone products and writes final `128 x 128` patc
 
 ## Inputs
 
+This code takes the public AbacusSummit lightcone catalog data products as input. For instructions on how to download these, please see [this webpage](https://abacussummit.readthedocs.io/en/latest/data-access.html).
+
 Expected raw input layout:
 
 ```text
