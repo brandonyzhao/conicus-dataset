@@ -1,6 +1,6 @@
 # Conicus Dataset Processing
 
-Minimal scripts for processing AbacusSummit HEALPix particle lightcone products into patched projected-overdensity lensplane datasets used by Zhao et al. (2026).
+Minimal scripts for processing AbacusSummit HEALPix particle lightcone products into patched projected-overdensity lensplane datasets used by [Generative Diffusion Priors for 3D Mapping of the Dark Universe](https://imaging.cms.caltech.edu/gdpdm/), Zhao et al., CVPR, 2026.
 
 The pipeline reads raw ASDF lightcone products and writes final `128 x 128` patch files plus per-phase lensplane metadata. It does not save the older projected-count, overdensity-shell, or full-lensplane intermediates.
 
